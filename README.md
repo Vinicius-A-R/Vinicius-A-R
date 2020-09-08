@@ -2,11 +2,11 @@
 
 Contacts:
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
-<img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/linkedin.svg" width="24" height="24" viewBox="0 0 24 24"></img>
+<img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/linkedin.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
 
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
-  <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/whatsapp.svg" width="24" height="24" viewBox="0 0 24 24"></img>
+  <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/whatsapp.svg" width="24" height="24" alt="Vinicius"  align="left"></img>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5531995721897&text=Hi%2C%20I'm%20Vinicius" target="_blank" >
