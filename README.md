@@ -1,10 +1,8 @@
 ### Hi, I'm Vinicius! 👋
 
-Contacts:
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
 <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/linkedin.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
-
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
   <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/whatsapp.svg" width="24" height="24" alt="Vinicius"  align="left"></img>
 </a>
