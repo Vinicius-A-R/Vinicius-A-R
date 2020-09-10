@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
 <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/linkedin.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
+<a href="https://www.codewars.com/users/Vinicius-A-R" target="_blank">
+<img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/codewars.svg" width="24" height="24" alt="Vinicius"  align="left" />
+</a>
 <a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
   <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/whatsapp.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
@@ -18,6 +21,8 @@ back to study by my self programming language focused in JS, React, Redux and No
 and I also like a little bit to develop my personal projects.
 
 In my repositories you can see some of my projects and studies in React, Redux and NodeJS for now. I participated in some bootcamps of Incodde and IGTI,
+
+**My Website:** [Click here](https://personal-website-d0061.web.app/)
 
 **Current Stack**
 
