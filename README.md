@@ -6,9 +6,14 @@
 <a href="https://www.codewars.com/users/Vinicius-A-R" target="_blank">
 <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/codewars.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
-<a href="https://www.linkedin.com/in/vinicius-a-r-50a98b133/" target="_blank">
+<a href="https://codesandbox.io/u/Vinicius-A-R/" target="_blank">
+  <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/codesandbox.svg" width="24" height="24" alt="Vinicius"  align="left" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5531995721897&text=Ol%C3%A1%20Vinicius%2C%20venho%20da%20sua%20p%C3%A1gina%20pessoal!" target="_blank">
   <img src="https://github.com/Vinicius-A-R/Vinicius-A-R/blob/master/assets/whatsapp.svg" width="24" height="24" alt="Vinicius"  align="left" />
 </a>
+
+
 
 <br/>
 
