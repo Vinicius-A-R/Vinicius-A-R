@@ -27,7 +27,6 @@ and I also like a little bit to develop my personal projects.
 
 In my repositories you can see some of my projects and studies in React, Redux and NodeJS for now. I participated in some bootcamps of Incodde and IGTI,
 
-**My Website:** [Click here](https://personal-website-d0061.web.app/)
 
 **Current Stack**
 
